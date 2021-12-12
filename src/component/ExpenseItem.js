@@ -1,10 +1,9 @@
 import './ExpenseItem.css'
-import './ExpenseDate'
 import ExpenseDate from './ExpenseDate';
 
 function ExpenseItem(props) {
 
-    console.log(props);
+    // console.log(props);
 
   return (
     <div className="expense-item">
