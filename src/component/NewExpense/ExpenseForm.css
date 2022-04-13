@@ -23,4 +23,10 @@
 
 .new-expense__actions {
   text-align: right;
+ 
 }
+
+.exp__control{
+  display: inline-block;
+}
+
